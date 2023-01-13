@@ -1,0 +1,2 @@
+# googleSignInReactNative
+ corrected version
